@@ -21,9 +21,9 @@
   "dependencies": {
     "argv": "0.0.2",
     "daemonize2": "^0.4.2",
-    "ip": "^1.1.5",
+    "ip": "^2.0.1",
     "macaddress": "^0.2.8",
-    "node-notifier": "^5.1.2",
+    "node-notifier": "^12.1.0",
     "pcap": "git+https://github.com/mranney/node_pcap.git",
     "raw-socket": "^1.5.1"
   }
